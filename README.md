@@ -29,5 +29,7 @@ Skrip Python ini mengambil dan menampilkan informasi tentang komponen-komponen b
 Jalankan skrip dengan:
 ```bash
 python check.py
+```
+
 <br>
 <img src="https://raw.githubusercontent.com/Mister-RdanM19/internal_ComputerCHECK/refs/heads/main/ComputerKoe.png">
